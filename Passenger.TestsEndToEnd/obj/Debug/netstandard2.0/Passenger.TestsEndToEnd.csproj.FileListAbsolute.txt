@@ -1,0 +1,15 @@
+C:\Users\aneta\Documents\Passenger\Passenger.TestsEndToEnd\bin\Debug\netstandard2.0\NUnit3.TestAdapter.dll
+C:\Users\aneta\Documents\Passenger\Passenger.TestsEndToEnd\bin\Debug\netstandard2.0\nunit.engine.dll
+C:\Users\aneta\Documents\Passenger\Passenger.TestsEndToEnd\bin\Debug\netstandard2.0\nunit.engine.api.dll
+C:\Users\aneta\Documents\Passenger\Passenger.TestsEndToEnd\bin\Debug\netstandard2.0\Mono.Cecil.dll
+C:\Users\aneta\Documents\Passenger\Passenger.TestsEndToEnd\bin\Debug\netstandard2.0\Mono.Cecil.Pdb.dll
+C:\Users\aneta\Documents\Passenger\Passenger.TestsEndToEnd\bin\Debug\netstandard2.0\Mono.Cecil.Mdb.dll
+C:\Users\aneta\Documents\Passenger\Passenger.TestsEndToEnd\bin\Debug\netstandard2.0\Mono.Cecil.Rocks.dll
+C:\Users\aneta\Documents\Passenger\Passenger.TestsEndToEnd\bin\Debug\netstandard2.0\Passenger.TestsEndToEnd.deps.json
+C:\Users\aneta\Documents\Passenger\Passenger.TestsEndToEnd\bin\Debug\netstandard2.0\Passenger.TestsEndToEnd.dll
+C:\Users\aneta\Documents\Passenger\Passenger.TestsEndToEnd\bin\Debug\netstandard2.0\Passenger.TestsEndToEnd.pdb
+C:\Users\aneta\Documents\Passenger\Passenger.TestsEndToEnd\obj\Debug\netstandard2.0\Passenger.TestsEndToEnd.csprojAssemblyReference.cache
+C:\Users\aneta\Documents\Passenger\Passenger.TestsEndToEnd\obj\Debug\netstandard2.0\Passenger.TestsEndToEnd.AssemblyInfoInputs.cache
+C:\Users\aneta\Documents\Passenger\Passenger.TestsEndToEnd\obj\Debug\netstandard2.0\Passenger.TestsEndToEnd.AssemblyInfo.cs
+C:\Users\aneta\Documents\Passenger\Passenger.TestsEndToEnd\obj\Debug\netstandard2.0\Passenger.TestsEndToEnd.dll
+C:\Users\aneta\Documents\Passenger\Passenger.TestsEndToEnd\obj\Debug\netstandard2.0\Passenger.TestsEndToEnd.pdb

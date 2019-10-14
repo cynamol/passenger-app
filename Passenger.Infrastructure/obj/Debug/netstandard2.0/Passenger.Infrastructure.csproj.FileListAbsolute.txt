@@ -1,0 +1,11 @@
+C:\Users\aneta\Documents\Passenger\Passenger.Infrastructure\bin\Debug\netstandard2.0\Passenger.Infrastructure.deps.json
+C:\Users\aneta\Documents\Passenger\Passenger.Infrastructure\bin\Debug\netstandard2.0\Passenger.Infrastructure.dll
+C:\Users\aneta\Documents\Passenger\Passenger.Infrastructure\bin\Debug\netstandard2.0\Passenger.Infrastructure.pdb
+C:\Users\aneta\Documents\Passenger\Passenger.Infrastructure\bin\Debug\netstandard2.0\Passenger.Core.dll
+C:\Users\aneta\Documents\Passenger\Passenger.Infrastructure\bin\Debug\netstandard2.0\Passenger.Core.pdb
+C:\Users\aneta\Documents\Passenger\Passenger.Infrastructure\obj\Debug\netstandard2.0\Passenger.Infrastructure.csprojAssemblyReference.cache
+C:\Users\aneta\Documents\Passenger\Passenger.Infrastructure\obj\Debug\netstandard2.0\Passenger.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\aneta\Documents\Passenger\Passenger.Infrastructure\obj\Debug\netstandard2.0\Passenger.Infrastructure.AssemblyInfo.cs
+C:\Users\aneta\Documents\Passenger\Passenger.Infrastructure\obj\Debug\netstandard2.0\Passenger.Infrastructure.csproj.CopyComplete
+C:\Users\aneta\Documents\Passenger\Passenger.Infrastructure\obj\Debug\netstandard2.0\Passenger.Infrastructure.dll
+C:\Users\aneta\Documents\Passenger\Passenger.Infrastructure\obj\Debug\netstandard2.0\Passenger.Infrastructure.pdb
